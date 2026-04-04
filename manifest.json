@@ -1,12 +1,12 @@
 {
-  "version": "2026-04-04T03:43:49Z",
-  "sha256": "775070a4b35b6c6b1cf0ea0efbc4d46479e7978b4021da44b58ede5213a8f5ad",
+  "version": "2026-04-04T22:15:53Z",
+  "sha256": "ad2ac2a781f6bf885181ce77b431e89079ebe4fadbf28cea46104c567f98220a",
   "counts": {
-    "genres": 23,
-    "movies": 510,
-    "tv_shows": 169,
-    "seasons": 834,
-    "episodes": 16875,
-    "embeddings": 679
+    "genres": 25,
+    "movies": 509,
+    "tv_shows": 490,
+    "seasons": 3695,
+    "episodes": 66376,
+    "embeddings": 5994
   }
 }
